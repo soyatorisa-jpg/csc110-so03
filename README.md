@@ -57,7 +57,9 @@ The list variable `grades` is declred at the top and outside any function. This 
 ## Task 1: read_five_ints
 
 ### define the function
-
+    
+        for i in range():
+        print("hi")
 The objective of this function is to read five inputs from the user, cast them to integers, and use them to update the list.
 
 **Tip**: To check if an input string (let's call it `in_str`) is composed of digits, you can use this notation:
